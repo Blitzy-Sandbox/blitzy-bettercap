@@ -4,7 +4,10 @@ metadata:
   name: blitzy-bettercap
   description: The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks
     reconnaissance and MITM attacks.
-  tags: []
+  tags:
+  - go
+  - networking
+  - security
   annotations:
     github.com/project-slug: Blitzy-Sandbox/blitzy-bettercap
     backstage.io/source-location: url:https://github.com/Blitzy-Sandbox/blitzy-bettercap/tree/master/
